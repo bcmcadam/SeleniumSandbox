@@ -1,0 +1,15 @@
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\bin\Debug\netcoreapp2.0\SeleniumSandbox.deps.json
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\bin\Debug\netcoreapp2.0\SeleniumSandbox.dll
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\obj\Debug\netcoreapp2.0\SeleniumSandbox.csprojAssemblyReference.cache
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\obj\Debug\netcoreapp2.0\SeleniumSandbox.csproj.CoreCompileInputs.cache
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\obj\Debug\netcoreapp2.0\SeleniumSandbox.AssemblyInfoInputs.cache
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\obj\Debug\netcoreapp2.0\SeleniumSandbox.AssemblyInfo.cs
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\bin\Debug\netcoreapp2.0\SeleniumSandbox.pdb
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\obj\Debug\netcoreapp2.0\SeleniumSandbox.dll
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\obj\Debug\netcoreapp2.0\SeleniumSandbox.pdb
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\bin\Debug\netcoreapp2.0\SeleniumSandbox.runtimeconfig.json
+C:\Users\i7-860\Desktop\SeleniumSandbox\SeleniumSandbox\bin\Debug\netcoreapp2.0\SeleniumSandbox.runtimeconfig.dev.json
