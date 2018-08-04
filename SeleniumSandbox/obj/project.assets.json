@@ -5655,24 +5655,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\i7-860\\.nuget\\packages\\": {},
+    "C:\\Users\\myhan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i7-860\\Desktop\\SeleniumSandbox\\SeleniumSandbox\\SeleniumSandbox.csproj",
+      "projectUniqueName": "C:\\Users\\myhan\\Desktop\\sandbox\\SeleniumSandbox\\SeleniumSandbox\\SeleniumSandbox.csproj",
       "projectName": "SeleniumSandbox",
-      "projectPath": "C:\\Users\\i7-860\\Desktop\\SeleniumSandbox\\SeleniumSandbox\\SeleniumSandbox.csproj",
-      "packagesPath": "C:\\Users\\i7-860\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\i7-860\\Desktop\\SeleniumSandbox\\SeleniumSandbox\\obj\\",
+      "projectPath": "C:\\Users\\myhan\\Desktop\\sandbox\\SeleniumSandbox\\SeleniumSandbox\\SeleniumSandbox.csproj",
+      "packagesPath": "C:\\Users\\myhan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\myhan\\Desktop\\sandbox\\SeleniumSandbox\\SeleniumSandbox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\i7-860\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\myhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
