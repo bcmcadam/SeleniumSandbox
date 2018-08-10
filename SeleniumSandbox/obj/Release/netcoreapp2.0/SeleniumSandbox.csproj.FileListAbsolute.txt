@@ -1,0 +1,15 @@
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\bin\Release\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\bin\Release\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\bin\Release\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\bin\Release\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\bin\Release\netcoreapp2.0\SeleniumSandbox.deps.json
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\bin\Release\netcoreapp2.0\SeleniumSandbox.runtimeconfig.json
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\bin\Release\netcoreapp2.0\SeleniumSandbox.runtimeconfig.dev.json
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\bin\Release\netcoreapp2.0\SeleniumSandbox.dll
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\bin\Release\netcoreapp2.0\SeleniumSandbox.pdb
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\obj\Release\netcoreapp2.0\SeleniumSandbox.csproj.CoreCompileInputs.cache
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\obj\Release\netcoreapp2.0\SeleniumSandbox.AssemblyInfoInputs.cache
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\obj\Release\netcoreapp2.0\SeleniumSandbox.AssemblyInfo.cs
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\obj\Release\netcoreapp2.0\SeleniumSandbox.dll
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\obj\Release\netcoreapp2.0\SeleniumSandbox.pdb
+C:\Users\myhan\Desktop\sandbox\SeleniumSandbox\SeleniumSandbox\obj\Release\netcoreapp2.0\SeleniumSandbox.csprojResolveAssemblyReference.cache
