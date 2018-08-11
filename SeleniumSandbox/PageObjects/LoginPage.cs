@@ -21,10 +21,26 @@ namespace SeleniumSandbox.PageObjects
         {
             get
             {
-                return _driver.FindElements(By.TagName("input"))[0];
+                return _driver.FindElement(By.TagName("input"));
+            }
+        }
+                
+        public IWebElement password
+        {
+            get
+            {
+                return _driver.FindElement(By.Name("password"));
 
             }
         }
+        public IWebElement loginButton
+        {
+            get
+            {
+                return _driver.FindElements(By.TagName("button")).Where(e => e.Text.Contains("LOGIN")).FirstOrDefault();
+
+            }
+        }
+
     }
 }
-    

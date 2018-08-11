@@ -21,7 +21,9 @@ namespace SeleniumSandbox
             _base.MyAccount.Click();
             _base.Login.Click();
             System.Threading.Thread.Sleep(5000);
-            _lg.email.SendKeys("marcus");
+            _lg.email.SendKeys("user@phptravels.com");
+            _lg.password.SendKeys("demouser");
+            _lg.loginButton.Click();
 
 
 

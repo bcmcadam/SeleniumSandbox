@@ -31,8 +31,8 @@ namespace SeleniumSandbox.PageObjects
                 return _driver.FindElements(By.TagName("a")).Where(e => e.Text.Contains("Login")).FirstOrDefault();
 
             }
-
-
         }
+      }
     }
-}
+
+   
