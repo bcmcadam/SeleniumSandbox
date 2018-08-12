@@ -19,23 +19,12 @@ namespace SeleniumSandbox.PageObjects
         {
             _driver.Url = "https://www.phptravels.net/";
         }
-
-
-        class Hotels
-        {
-            private IWebDriver _driver;
-
-            public Hotels(IWebDriver driver)
-            {
-                _driver = driver;
-            }
-
-            public void goToHotels()
-            {
-                _driver.Url = "https://www.phptravels.net/hotels";
-            }
-        }
     }
 }
 
-    
+
+
+
+       
+
+
